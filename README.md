@@ -37,10 +37,14 @@ act on.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Porcelain**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Utility**. Install Borozdov Utility under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Porcelain** under Style Settings → Borozdov Utility → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/porcelain/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Porcelain/`, then choose Borozdov Porcelain under
 Settings → Appearance → Themes.
@@ -54,5 +58,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Шоурум» — скандинавская
 галерея на фарфоре, и тёмный «Альков» — та же галерея при вечернем свете. Белый шёлк,
 прямые углы, кнопки-пилюли без заливки, тонкие линейки и одна ультрамариновая плоскость для
-того, что вы делаете. Шрифты не встроены. Устанавливается из каталога: Настройки →
-Оформление → Темы → Настроить → Borozdov Porcelain → Установить и применить.
+того, что вы делаете. Шрифты не встроены. В каталоге тема живёт вариантом Borozdov Utility: установите Borozdov Utility и плагин Style Settings, затем выберите Porcelain в Style Settings → Borozdov Utility → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
